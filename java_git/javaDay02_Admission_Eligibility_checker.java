@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class javaDay02_Admission_Eligibility_checker
+public class  javaDay02_Admission_Eligibility_checker
 {
 public static void main(String[] args) 
 {
